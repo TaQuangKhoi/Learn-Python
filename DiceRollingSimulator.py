@@ -1,3 +1,4 @@
+# A dice rolling simulator.
 import random
 import PySimpleGUI as sg
 print("This is Dice Rolling Simulator for You")
